@@ -1,68 +1,70 @@
-# 🏆 2025년 PBL 프로그램: 동인천역 중심 원도심 골목상권 활성화 방안
-*(Plan to Revitalize Old Downtown Alley Commercial Districts around Dong-Incheon Station)*
+# 🏆 2025 PBL Program: Revitalizing Old Downtown Alley Commercial Districts around Dong-Incheon Station
+*(Strategic Planning & Urban Regeneration Proposal)*
 
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
-[![Award](https://img.shields.io/badge/Award-인천광역시장상(1등)-gold.svg)]()
+[![Award](https://img.shields.io/badge/Award-Incheon_Mayor's_Award_(1st_Place)-gold.svg)]()
 
-본 저장소는 인천대학교에서 주관한 **2025년 PBL(Project Based Learning) 프로그램**에서 **인천광역시장상(대상/1등)**을 수상한 **'서브로컬(Sub-Local)'** 팀의 연구 및 발표 자료를 담고 있습니다.
+This repository contains the strategic proposal and presentation materials for the **2025 PBL (Project Based Learning) Program** at Incheon National University. Our team, **'Sub-Local'**, tackled the complex socio-economic issue of urban decline in old downtown Incheon and won the **Grand Prize (Incheon Metropolitan City Mayor's Award, 1st Place)** among 15 competing teams.
 
-발표 자료는 스캔본(통이미지)으로 구성되어 있어 직접적인 텍스트 추출은 어렵지만, 본 프로젝트의 핵심 논리와 전략을 데이터 분석가의 시각에서 세부적으로 재구성하여 기록합니다.
-
----
-
-## 📁 관련 문서 바로가기 (Documents)
-- 📄 [최종 발표 자료 (스캔본)](docs/서브로컬팀_PBL_발표자료.pdf)
-- 📄 [2025년 PBL 프로그램 안내문 및 심사기준](docs/[붙임1]2025년%20PBL%20프로그램%20안내문.pdf)
+> [!NOTE]
+> While this project does not heavily rely on machine learning or big data pipelines, it demonstrates a rigorous **"Problem Definition $\rightarrow$ Field Research $\rightarrow$ Data-Informed Diagnosis $\rightarrow$ Strategic Execution"** workflow. It showcases the core competencies required of a Data Analyst: structured problem-solving and persuasive storytelling for non-technical stakeholders (e.g., government officials).
 
 ---
 
-## 🚀 프로젝트 개요 (Project Overview)
-- **과제명**: 동인천역 중심 원도심 골목상권 활성화 방안
-- **팀명**: 서브로컬 (Sub-Local)
-- **팀원**: 이현서, 주영광, 서은결, **이준형**, 원종현 (지도교수: 옥우석)
-- **배경**: 동인천역 일대는 과거 인천의 중심지였으나, 송도·청라 등 신도시 개발로 인해 인구 유출과 상권 침체가 심각한 상황입니다.
-- **핵심 목표**: 현장 조사와 이해관계자 분석을 바탕으로, MZ세대가 자발적으로 찾아올 수 있는 '지속 가능한 로컬 브랜드 상권' 구축 전략을 제시.
+## 📁 Document Links
+- 📄 [Final Presentation Slides (Scanned PDF)](docs/서브로컬팀_PBL_발표자료.pdf)
+- 📄 [PBL Program Announcement & Evaluation Criteria](docs/[붙임1]2025년%20PBL%20프로그램%20안내문.pdf)
 
 ---
 
-## 🔍 상세 분석: 문제 정의 및 현황 (Deep Dive: Problem Analysis)
-
-발표 자료에 담긴 핵심 분석 내용은 다음과 같은 3가지 축으로 구성되어 있습니다.
-
-### 1. 공간 및 상권 분석 (Spatial & Commercial Analysis)
-- **병목 현상 및 단절**: 동인천역 주변의 복잡한 도로망과 노후화된 인프라로 인해 유동인구가 특정 구역에만 머물고 골목 안쪽으로 유입되지 않는 문제 확인.
-- **업종 다양성 부족**: 기존 전통시장 중심의 업종 구성으로 인해 청년층의 소비를 유도할 수 있는 문화·체험형 콘텐츠가 절대적으로 부족함.
-
-### 2. 이해관계자 분석 (Stakeholder Analysis)
-- **상인층의 고령화**: 변화에 대한 수용성이 낮고 디지털 홍보(SNS 등)에 취약함.
-- **소비자(MZ세대) 니즈**: 레트로 감성을 선호하지만, 위생·편의성·볼거리가 부족하면 방문으로 이어지지 않음.
-- **결론**: 상인의 생존권과 청년의 감성을 동시에 만족시킬 수 있는 **'상생형 로컬 브랜딩'**이 필요함.
+## 🚀 Executive Summary
+- **Topic**: Plan to Revitalize Old Downtown Alley Commercial Districts around Dong-Incheon Station.
+- **Team**: Sub-Local (Members: Lee Hyun-seo, Joo Young-gwang, Seo Eun-gyeol, **Lee Jun-hyung**, Won Jong-hyun | Advisor: Prof. Ok Woo-seok).
+- **The Challenge**: Dong-Incheon was once the heart of the city, but rapid development of new towns (Songdo, Cheongna) led to severe "downtown hollowization" (공동화 현상) and commercial stagnation.
+- **The Solution**: A multi-tiered strategy combining MZ-generation targeted "Anchor Stores", a digital local ecosystem (hyper-local mapping), and a phased policy roadmap to ensure sustainable growth.
 
 ---
 
-## 💡 핵심 전략 및 솔루션 (Strategic Solutions)
+## 🔍 Deep Dive: Problem Analysis
 
-'서브로컬' 팀이 제시한 1등 솔루션의 세부 내용은 다음과 같습니다.
+Our team conducted a comprehensive audit of the Dong-Incheon Station area to identify the root causes of its decline. The analysis was structured around three dimensions:
 
-### 🎯 전략 1: MZ세대 타겟 '레트로 앵커 스토어' 기획
-- 동인천의 역사적 자산(근대 건축물 등)을 활용하여 청년들이 사진을 찍고 머물 수 있는 핵심 거점(Anchor) 공간을 기획.
-- 단순 소비 공간이 아닌, 로컬 크리에이터들과 협업하는 문화 복합 공간 제시.
+### 1. Spatial & Infrastructural Bottlenecks
+- **Flow Disconnection**: Despite proximity to transit, the complex road network and aging infrastructure created a "bottleneck" effect. Pedestrians rarely ventured into the deep alleys where the local businesses are located.
+- **Monotonous Commercial Grid**: The area is dominated by traditional markets and aging retail, lacking the experiential and cultural content needed to attract the younger demographic (MZ Generation).
 
-### 🗺️ 전략 2: 디지털 로컬 맵 및 스토어 브랜딩
-- 발표 자료에 포함된 **상세 구역 지도**를 기반으로, 숨은 맛집과 감성 스토어를 연결하는 '테마별 도보 투어 코스' 개발.
-- SNS 공유를 유발하는 비주얼 중심의 디지털 맵 디자인 및 홍보 전략 수립.
-
-### 📈 전략 3: 단계별 정책 실행 로드맵 (Action Plan)
-- **단기 (1~2년)**: 팝업 스토어 및 야시장 운영을 통한 초기 유동인구 유입 및 바이럴 마케팅.
-- **중기 (3~5년)**: 청년 창업가 유치를 위한 임대료 지원 및 골목 환경 정비(지자체 협력).
-- **장기 (5년 이상)**: 동인천역 민자역사 개발 등 대규모 인프라 사업과 연계한 상권 자생력 확보.
+### 2. Stakeholder Friction & Persona Mapping
+- **Merchant Persona**: Aging demographic, low receptivity to digital transformation (SNS marketing, online payments), and a defensive stance against drastic changes.
+- **Consumer Persona (MZ Gen)**: High preference for "retro" aesthetics and unique local stories, but deterred by poor accessibility, hygiene concerns, and lack of cohesive branding.
+- **Synthesis**: The solution must be a **"Win-Win Symbiotic Model"** that preserves local heritage while upgrading the consumer experience.
 
 ---
 
-## 🏆 프로젝트의 의의 및 역량 (Significance & Competencies)
-1. **문제 해결력 (Problem Solving)**: 모호한 지역 사회 문제를 정의하고, 실행 가능한 구체적 대안으로 구체화함.
-2. **현장 중심의 접근 (Field-Oriented)**: 탁상행정이 아닌, 직접 발로 뛰며 수집한 데이터(현장 사진, 인터뷰 등)를 바탕으로 논리를 전개함.
-3. **학제간 융합 및 협업**: 다양한 전공의 팀원들과 협력하여 기획, 디자인, 정책 제안을 아우르는 종합 보고서를 완성함.
+## 💡 The "Sub-Local" Strategic Framework
+
+To address these challenges, we proposed a three-step framework that impressed the evaluation committee and secured the Mayor's Award.
+
+### 🎯 Strategy 1: The "Retro Anchor Store" Concept
+- **Objective**: Create a high-gravity destination that forces foot traffic into the alleys.
+- **Execution**: Leverage Dong-Incheon's unique historical assets (modern architecture from the open-port era) to create a multi-cultural complex. This space serves as a hub for local creators and pop-up events, acting as the primary entry point for young visitors.
+
+### 🗺️ Strategy 2: Hyper-Local Digital Ecosystem
+- **Objective**: Bridge the gap between analog merchants and digital consumers.
+- **Execution**: Developed a blueprint for a **Digital Storytelling Map**. Unlike standard navigation, this map highlights the "hidden stories" of local artisans and historic restaurants.
+- **Viral Loop**: Designed photo-spots and thematic walking courses optimized for Instagram sharing, creating a self-sustaining marketing loop.
+
+### 📈 Strategy 3: Phased Policy Execution Roadmap (Action Plan)
+We didn't just propose ideas; we provided a realistic execution timeline for the city government:
+- **Short-Term (1-2 Years)**: Quick wins through pop-up stores, night markets, and basic visual branding to generate initial buzz and foot traffic.
+- **Mid-Term (3-5 Years)**: Infrastructure upgrades (lighting, signage) and subsidies for young entrepreneurs to set up permanent shops in vacant spaces.
+- **Long-Term (5+ Years)**: Integration with the large-scale Dong-Incheon Station redevelopment project to ensure long-term economic sustainability.
 
 ---
-*본 프로젝트는 순수 데이터 분석 과제는 아니지만, 분석가로서 가장 강력한 무기인 **"현상 분석을 통한 전략 도출 능력"**과 **"지자체를 설득할 수 있는 논리적 스토리텔링"**을 증명한 최고의 결과물입니다.*
+
+## 🏆 Key Achievements & Competencies Demonstrated
+1. **Strategic Problem Solving**: Transformed a vague social problem into a structured, executable business model.
+2. **Field-Oriented Research**: Conducted on-site audits and merchant interviews, proving that real data often comes from the field, not just databases.
+3. **Cross-Functional Collaboration**: Coordinated between team members with different expertise to deliver a holistic proposal covering design, policy, and business strategy.
+
+---
+*This project stands as a testament to my ability to think strategically, analyze complex systems, and deliver high-impact solutions that win top honors at the municipal level.*
