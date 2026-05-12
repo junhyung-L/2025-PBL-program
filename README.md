@@ -33,6 +33,8 @@ Our team conducted a comprehensive audit of the Dong-Incheon Station area (inclu
 ### 1. High Vacancy and Stagnation
 - Data revealed a shocking **40% vacancy rate** in the target area, indicating severe commercial decline despite the area's rich history.
 
+![Vacancy Rate Data](images/vacancy.jpg)
+
 ### 2. The 3 "Lacks" (3無)
 Through field surveys and merchant interviews, we identified:
 - **Digital Disconnection**: Businesses were missing from Naver Maps and lacked any online presence.
@@ -72,6 +74,8 @@ To prove our concept, we recruited a traditional tea house, **Madam Tea**, and r
 - **Naver Map Reviews**: Generated **4 new reviews** within a month (reversing zero review activity since Dec 2024).
 - **Sales**: Achieved a **25% increase** in average monthly sales.
 - **Foot Traffic**: Achieved a staggering **600% increase** in new visits from the **2030 (MZ) generation**.
+
+![30-Day Results](images/results.jpg)
 
 ---
 
