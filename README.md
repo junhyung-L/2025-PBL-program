@@ -7,7 +7,7 @@
 This repository contains the strategic proposal and presentation materials for the **2025 PBL (Project Based Learning) Program** at Incheon National University. Our team, **'Sub-Local'**, tackled the complex socio-economic issue of urban decline in old downtown Incheon and won the **Grand Prize (Incheon Metropolitan City Mayor's Award, 1st Place)** among 15 competing teams.
 
 > [!NOTE]
-> While this project does not heavily rely on machine learning or big data pipelines, it demonstrates a rigorous **"Problem Definition $\rightarrow$ Field Research $\rightarrow$ Data-Informed Diagnosis $\rightarrow$ Strategic Execution"** workflow. It showcases the core competencies required of a Data Analyst: structured problem-solving and persuasive storytelling for non-technical stakeholders (e.g., government officials).
+> This project demonstrates a rigorous **"Problem Definition $\rightarrow$ Field Research $\rightarrow$ Data-Informed Diagnosis $\rightarrow$ Strategic Execution"** workflow. It showcases the core competencies required of a Data Analyst: structured problem-solving, data-driven insight extraction, and persuasive storytelling for stakeholders.
 
 ---
 
@@ -19,53 +19,76 @@ This repository contains the strategic proposal and presentation materials for t
 
 ## 🚀 Executive Summary
 - **Topic**: Plan to Revitalize Old Downtown Alley Commercial Districts around Dong-Incheon Station.
-- **Team**: Sub-Local (Members: Lee Hyun-seo, Joo Young-gwang, Seo Eun-gyeol, **Lee Jun-hyung**, Won Jong-hyun | Advisor: Prof. Ok Woo-seok).
-- **The Challenge**: Dong-Incheon was once the heart of the city, but rapid development of new towns (Songdo, Cheongna) led to severe "downtown hollowization" (공동화 현상) and commercial stagnation.
-- **The Solution**: A multi-tiered strategy combining MZ-generation targeted "Anchor Stores", a digital local ecosystem (hyper-local mapping), and a phased policy roadmap to ensure sustainable growth.
+- **Team**: Sub-Local
+  - **Members**: Joo Young-gwang (PM), Seo Eun-gyeol (Content), Lee Hyun-seo (Admin), **Lee Jun-hyung** (Marketing & Data Analysis), Won Jong-hyun (Design).
+- **The Challenge**: Severe "downtown hollowization" (공동화 현상) in Dong-Incheon, evidenced by a **40% vacancy rate** (1,073 out of 2,612 stores vacant).
+- **The Solution**: "Dong-Incheon Masters" project — a win-win model matching local traditional merchants with student creators to upgrade digital presence and experience design, proven by a successful pilot operation at **"Madam Tea"**.
 
 ---
 
 ## 🔍 Deep Dive: Problem Analysis
 
-Our team conducted a comprehensive audit of the Dong-Incheon Station area to identify the root causes of its decline. The analysis was structured around three dimensions:
+Our team conducted a comprehensive audit of the Dong-Incheon Station area (including Sinpo-dong and Bukseong-dong). We identified three core problems backed by data and field research:
 
-### 1. Spatial & Infrastructural Bottlenecks
-- **Flow Disconnection**: Despite proximity to transit, the complex road network and aging infrastructure created a "bottleneck" effect. Pedestrians rarely ventured into the deep alleys where the local businesses are located.
-- **Monotonous Commercial Grid**: The area is dominated by traditional markets and aging retail, lacking the experiential and cultural content needed to attract the younger demographic (MZ Generation).
+### 1. High Vacancy and Stagnation
+- Data revealed a shocking **40% vacancy rate** in the target area, indicating severe commercial decline despite the area's rich history.
 
-### 2. Stakeholder Friction & Persona Mapping
-- **Merchant Persona**: Aging demographic, low receptivity to digital transformation (SNS marketing, online payments), and a defensive stance against drastic changes.
-- **Consumer Persona (MZ Gen)**: High preference for "retro" aesthetics and unique local stories, but deterred by poor accessibility, hygiene concerns, and lack of cohesive branding.
-- **Synthesis**: The solution must be a **"Win-Win Symbiotic Model"** that preserves local heritage while upgrading the consumer experience.
-
----
-
-## 💡 The "Sub-Local" Strategic Framework
-
-To address these challenges, we proposed a three-step framework that impressed the evaluation committee and secured the Mayor's Award.
-
-### 🎯 Strategy 1: The "Retro Anchor Store" Concept
-- **Objective**: Create a high-gravity destination that forces foot traffic into the alleys.
-- **Execution**: Leverage Dong-Incheon's unique historical assets (modern architecture from the open-port era) to create a multi-cultural complex. This space serves as a hub for local creators and pop-up events, acting as the primary entry point for young visitors.
-- **Proof of Concept (PoC)**: To prove the viability of this strategy, our team successfully recruited and partnered with a local traditional tea house named **"Madam Tea" (마담티)**. We ran a pilot operation to demonstrate how a traditional, aging space could be rebranded and operated to attract the younger MZ generation, serving as a concrete, successful model for future anchor stores.
-
-### 🗺️ Strategy 2: Hyper-Local Digital Ecosystem
-- **Objective**: Bridge the gap between analog merchants and digital consumers.
-- **Execution**: Developed a blueprint for a **Digital Storytelling Map**. Unlike standard navigation, this map highlights the "hidden stories" of local artisans and historic restaurants.
-- **Viral Loop**: Designed photo-spots and thematic walking courses optimized for Instagram sharing, creating a self-sustaining marketing loop.
-
-### 📈 Strategy 3: Phased Policy Execution Roadmap (Action Plan)
-We didn't just propose ideas; we provided a realistic execution timeline for the city government:
-- **Short-Term (1-2 Years)**: Quick wins through pop-up stores, night markets, and basic visual branding to generate initial buzz and foot traffic.
-- **Mid-Term (3-5 Years)**: Infrastructure upgrades (lighting, signage) and subsidies for young entrepreneurs to set up permanent shops in vacant spaces.
-- **Long-Term (5+ Years)**: Integration with the large-scale Dong-Incheon Station redevelopment project to ensure long-term economic sustainability.
+### 2. The 3 "Lacks" (3無)
+Through field surveys and merchant interviews, we identified:
+- **Digital Disconnection**: Businesses were missing from Naver Maps and lacked any online presence.
+- **Lack of Attraction**: Outdated space design and menu presentation failed to attract the younger demographic.
+- **Lack of PR Marketing**: No active SNS marketing or communication channels.
 
 ---
 
-## 🏆 Key Achievements & Competencies Demonstrated
-1. **Strategic Problem Solving**: Transformed a vague social problem into a structured, executable business model.
-2. **Field-Oriented Research**: Conducted on-site audits and merchant interviews, proving that real data often comes from the field, not just databases.
-3. **Cross-Functional Collaboration**: Coordinated between team members with different expertise to deliver a holistic proposal covering design, policy, and business strategy.
+## 💡 The "Sub-Local" Strategy & Execution
+
+To address these challenges, we proposed the **"Dong-Incheon Masters"** framework and executed a real-world Proof of Concept (PoC).
+
+### 🎯 The "Dong-Incheon Masters" Framework
+1. **Master Selection**: Identify legacy merchants with high potential but low digital literacy.
+2. **Student Team Dispatch**: Match them with young creators (like our team) for a 30-day sprint.
+3. **Project Execution**:
+   - **Basic**: Digital mapping (Naver Maps), basic branding.
+   - **Special**: Experience design (menu development, interior touch-ups), SNS marketing.
+
+### 🍵 Real-World PoC: The "Madam Tea" (마담티) Case Study
+To prove our concept, we recruited a traditional tea house, **Madam Tea**, and ran a 30-day pilot rebranding operation.
+
+#### **1. Diagnosis**
+- Missing Naver Map registration.
+- No Instagram account.
+- Ambiguous menu board that didn't convey the charm of traditional tea.
+
+#### **2. Execution (Digital & Experience Design)**
+- **Concept**: Redefined the space as a "space to seal time" (시간을 봉인하는 공간).
+- **Experience Kit**: Introduced a **"Sealing Wax Letter"** experience (writing a letter with tea and sealing it with wax, to be delivered 1 year later).
+- **Naver Map Update**: Registered the shop, added professional photos, and listed new menu items:
+  - `[New] Sealing Wax Letter` (2,000 KRW)
+  - `[Reservation] Tea Omakase` (40,000 KRW)
+- **Marketing**: Opened Instagram account (`madam_tea`), designed storytelling banners, and produced PR short-form videos.
+
+#### **3. Results (The 30-Day Change)**
+- **Naver Map Reviews**: Generated **4 new reviews** within a month (reversing zero review activity since Dec 2024).
+- **Sales**: Achieved a **25% increase** in average monthly sales.
+- **Foot Traffic**: Achieved a staggering **600% increase** in new visits from the **2030 (MZ) generation**.
 
 ---
-*This project stands as a testament to my ability to think strategically, analyze complex systems, and deliver high-impact solutions that win top honors at the municipal level.*
+
+## 🏛️ Policy Feasibility & Impact
+
+We didn't stop at a private pilot. To ensure the sustainability of the "Dong-Incheon Masters" program, we verified its policy feasibility:
+- Conducted a telephone inquiry with the **Incheon Metropolitan City Small Business Policy Division**.
+- The city official responded that while they haven't operated such PR supporters before, the project is **"Sufficiently Feasible"** and highly relevant to the city's goal of revitalizing the old downtown. They expressed interest in reviewing the project for future policy implementation if the performance is proven.
+
+---
+
+## 🏆 Key Achievements & Competencies Demonstrated (Lee Jun-hyung)
+
+In this project, I served as the **Marketing and Data Analysis** lead. I demonstrated the following competencies:
+1. **Data-Driven Problem Solving**: Analyzed vacancy data and field research to identify the "3 Lacks" of the commercial district.
+2. **Growth Hacking & Digital Marketing**: Executed the Naver Map optimization and Instagram marketing for Madam Tea, resulting in a **600% increase** in MZ generation visits and **25% sales growth**.
+3. **Strategic Communication**: Translated field execution results into a scalable policy proposal that was validated by city officials and won the **Grand Prize (Mayor's Award)**.
+
+---
+*This project stands as a testament to my ability to think strategically, analyze complex systems, and deliver high-impact, data-driven solutions that win top honors.*
