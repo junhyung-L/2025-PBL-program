@@ -47,6 +47,7 @@ To address these challenges, we proposed a three-step framework that impressed t
 ### 🎯 Strategy 1: The "Retro Anchor Store" Concept
 - **Objective**: Create a high-gravity destination that forces foot traffic into the alleys.
 - **Execution**: Leverage Dong-Incheon's unique historical assets (modern architecture from the open-port era) to create a multi-cultural complex. This space serves as a hub for local creators and pop-up events, acting as the primary entry point for young visitors.
+- **Proof of Concept (PoC)**: To prove the viability of this strategy, our team successfully recruited and partnered with a local traditional tea house named **"Madam Tea" (마담티)**. We ran a pilot operation to demonstrate how a traditional, aging space could be rebranded and operated to attract the younger MZ generation, serving as a concrete, successful model for future anchor stores.
 
 ### 🗺️ Strategy 2: Hyper-Local Digital Ecosystem
 - **Objective**: Bridge the gap between analog merchants and digital consumers.
