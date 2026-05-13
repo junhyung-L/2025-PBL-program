@@ -94,7 +94,7 @@ In this project, I served as the **Marketing and Data Analysis** lead. I demonst
 2. **Growth Hacking & Digital Marketing**: Executed the Naver Map optimization and Instagram marketing for Madam Tea, resulting in a **600% increase** in MZ generation visits and **25% sales growth**.
 3. **Strategic Communication**: Translated field execution results into a scalable policy proposal that was validated by city officials and won the **Grand Prize (Mayor's Award)**.
 
-
-*Refactored and polished to meet professional software engineering standards for the [Data Analyst Portfolio](https://github.com/junhyung-L/Portfolio).*
 ---
+*Refactored and polished to meet professional software engineering standards for the [Data Analyst Portfolio](https://github.com/junhyung-L/Portfolio).*
+
 *This project stands as a testament to my ability to think strategically, analyze complex systems, and deliver high-impact, data-driven solutions that win top honors.*
